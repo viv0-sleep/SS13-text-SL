@@ -49,19 +49,19 @@
 # SS13-Styled Fonts
 
 - type: font
-  id: AltDefault
-  path: /Fonts/w95fa/W95F.otf 
+  id: SS13Default
+  path: /Fonts/w95fa/W95F.otf
 
 #- type: font
-#  id: AltDefaultItalic
+#  id: SS13DefaultItalic
 #  path: /Fonts/NotoSans/NotoSans-Italic.ttf
 
 #- type: font
-#  id: AltDefaultBold
+#  id: SS13DefaultBold
 #  path: /Fonts/NotoSans/NotoSans-Bold.ttf
 
 #- type: font
-#  id: AltDefaultBoldItalic
+#  id: SS13DefaultBoldItalic
 #  path: /Fonts/NotoSans/NotoSans-BoldItalic.ttf
 
 #- type: font

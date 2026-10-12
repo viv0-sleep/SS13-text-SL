@@ -21,7 +21,7 @@ public sealed partial class CCVars
 
     public static readonly CVarDef<bool> ChatEnableColorName =
         CVarDef.Create("accessibility.enable_color_name",
-            false,
+            true,
             CVar.CLIENTONLY | CVar.ARCHIVE,
             "Toggles displaying names with individual colors.");
 
